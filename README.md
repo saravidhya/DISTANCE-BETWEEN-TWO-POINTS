@@ -18,8 +18,9 @@ Substitute the values in the distance formula  ![formula](./formula.JPG)
 ### PROGRAM:
 ```python
 #Program to find the distance between two points.
-#Developed by: priyadharshini
-#RegisterNumber:22008758
+#Developed by: VIDHIYA LAKSHMI S
+#RegisterNumbeR: 212223230238
+
 import math
 l1=[4,2]
 l2=[10,6]
